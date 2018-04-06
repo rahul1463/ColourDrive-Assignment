@@ -1,0 +1,28 @@
+Respected Sir,
+I, Rahul Yadav, have started the assignment given to me from stratch and had tried to complete it with
+minimum use of online animation queries as per the given condition in the assignment.
+I have used the following development technologies for this:
+1> HTML
+2> CSS
+3> Bootstrap
+4> Javascript
+
+I would like to say that the following webpage is very simple to access and load. 
+Basic Important Features:
+1> use of Courasel (Bootstrap) instead of Flexslider(javascript) because of its ease and less complex.
+2> use of javascript mainly for event handling and DOM architecture.
+3> Use of glyphicons and font awesome instead of images to reduce page size and fast loding of page.
+4> Page is responsive and can work same way at any size of screen.
+4> Gallery section side bar works on hidden and show property to toggle between what user wants.
+
+What more can I add to this page?
+1> To make it more attractive we can use Parrallax.
+2> Animation can be added to make it more responsive. 
+
+webdevelopment is specially a feild of imagination and creativity. If you want me to make it more dynamic and 
+attractive I can do that for you but the type of work our firm is doing it is very important for a lay man to 
+understand the basic services that we are providing.
+I hope I made myself clear about my work
+Thanks a lot for considering me for this opportunity.
+Regards 
+Rahul Yadav
